@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/267
     wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17744#The-Moving-Picture-Boys-on-the-War-FrontOr-The-Hunt-for-the-Stolen-Army-Films
 gutenberg_bookshelf:
 - World War I
 - Children's Book Series
